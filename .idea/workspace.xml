@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfd08982-63ea-43f9-aa2e-8e7c39573c40" name="Default Changelist" comment="" />
+    <list default="true" id="cfd08982-63ea-43f9-aa2e-8e7c39573c40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/firebaseConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebaseConfig.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -45,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630517082929</updated>
       <workItem from="1630517084126" duration="1378000" />
+      <workItem from="1630518858543" duration="80000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1630517147207</created>
@@ -53,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630517147207</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1630518884580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630518884580</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -4,13 +4,13 @@ import uuid from "react-uuid";
 import {message} from "antd";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDLw6m1_53_xZzC5WOrZ54WyhMw-6FQXj0",
-  authDomain: "live-chat-with-react-js.firebaseapp.com",
-  databaseURL: "https://live-chat-with-react-js-default-rtdb.firebaseio.com",
-  projectId: "live-chat-with-react-js",
-  storageBucket: "live-chat-with-react-js.appspot.com",
-  messagingSenderId: "1098340234328",
-  appId: "1:1098340234328:web:db2c0c664d65138581862d"
+  apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  authDomain: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  databaseURL: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  projectId: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  storageBucket: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  messagingSenderId: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  appId: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 };
 
 const app = firebase.initializeApp(firebaseConfig);
